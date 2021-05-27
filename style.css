@@ -1,0 +1,23 @@
+
+body { 
+	margin: 0px;
+
+}
+
+#info {
+	position: absolute;
+    display: block;
+    z-index: 99;
+    left: 2%;
+    top: 0%;
+}
+
+a {
+	text-decoration: none;
+	border: none;
+	cursor: pointer;
+}
+
+#co2 {
+	display: none;
+}
